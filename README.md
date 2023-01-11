@@ -1,2 +1,4 @@
 # simstriker-control-releases
 Binary releases of StrikerControl
+
+Verification: a8812d653adf726ce8ec5eb8caa737a6e96d68bfe38e1b13feee0f89a2c0bc6b
